@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Lorenzo Gucci</title>
+        <link>https://lorenzogucci.github.io/</link>
+        <description>This is My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>lorenzo.gucci@mail.com (Lorenzo Gucci)</managingEditor>
+            <webMaster>lorenzo.gucci@mail.com (Lorenzo Gucci)</webMaster><lastBuildDate>Wed, 19 Aug 2020 22:11:50 &#43;0100</lastBuildDate>
+            <atom:link href="https://lorenzogucci.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_post</title>
+    <link>https://lorenzogucci.github.io/first_post/</link>
+    <pubDate>Wed, 19 Aug 2020 22:11:50 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://lorenzogucci.github.io/first_post/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
